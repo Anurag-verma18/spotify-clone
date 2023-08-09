@@ -83,7 +83,7 @@ nav ul li {
 }
 
 .songItem {
-    height: 32px;
+    height: 25px;
     display: flex;
     background-color: white;
     color: black;
@@ -95,7 +95,7 @@ nav ul li {
 }
 
 .songItem img {
-    width: 30px;
+    width: 23px;
     margin: 0 16px;
     border-radius: 34px;
 }
@@ -111,9 +111,11 @@ nav ul li {
 .songInfo {
     position: absolute;
     left: 10vw;
+    font-size: 10px;
 }
 
 .songInfo img {
     opacity: 0;
-    transition: opacity 1s ease-in;
+    transition: opacity 0.4s ease-in;
 }
+
