@@ -11,16 +11,16 @@ let masterSongName = document.querySelector('#masterSongName');
 
 
 let songs = [
-    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/cover1.jpg"},
-    {songName: "Cielo - Huma-Huma", filePath: "songs/2.mp3", coverPath: "covers/cover2.jpg"},
-    {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/3.mp3", coverPath: "covers/cover3.jpg"},
-    {songName: "Different Heaven & EH!DE ", filePath: "songs/4.mp3", coverPath: "covers/cover4.jpg"},
-    {songName: "Janji-Heroes-Tonight-feat-Johnning", filePath: "songs/5.mp3", coverPath: "covers/cover5.jpg"},
-    {songName: "Rabba - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/cover6.jpg"},
-    {songName: "Sakhiyaan - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/cover7.jpg"},
-    {songName: "Bhula Dena - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/cover8.jpg"},
-    {songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/cover9.jpg"},
-    {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/4.mp3", coverPath: "covers/cover10.jpg"},
+    {songName: "Suno Na Sangmarmar", filePath: "songs/1.mp3", coverPath: "covers/cover1.jpg"},
+    {songName: "Tera Mera Rishta", filePath: "songs/2.mp3", coverPath: "covers/cover2.jpg"},
+    {songName: "Tune Jo Na Kaha", filePath: "songs/3.mp3", coverPath: "covers/cover3.jpg"},
+    {songName: "Kashmir Mai Tu Kanyakumari", filePath: "songs/4.mp3", coverPath: "covers/cover4.jpg"},
+    {songName: "Raabta - Siyaah Raatein", filePath: "songs/5.mp3", coverPath: "covers/cover5.jpg"},
+    {songName: "Darkhaast", filePath: "songs/6.mp3", coverPath: "covers/cover6.jpg"},
+    {songName: "Janib", filePath: "songs/7.mp3", coverPath: "covers/cover7.jpg"},
+    {songName: "Jug Jug Jeeve", filePath: "songs/8.mp3", coverPath: "covers/cover8.jpg"},
+    {songName: "Rasiya", filePath: "songs/9.mp3", coverPath: "covers/cover9.jpg"},
+    {songName: "Tera Hua", filePath: "songs/10.mp3", coverPath: "covers/cover10.jpg"},
 ]
 
 songItems.forEach((element, i) => {
